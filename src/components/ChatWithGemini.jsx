@@ -40,7 +40,7 @@ const ChatWithGemini = () => {
         6. The overall gameplay and how it works.
         7. The levels or stages in the game.
         8. Plot twists or surprises in the story.
-        9. Interesting elements or unique features in the game.
+        9. Interesting elements or unique game features.
         10.Villains or antagonists and their character design.
 
         Please give each of these responses in detail and other elements if you want to add.
